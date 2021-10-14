@@ -1,0 +1,18 @@
+
+S
+java:S1854"=Remove this useless assignment to local variable "firstElem".(¢ì¿ÿ
+D
+java:S1481".Remove this unused "firstElem" local variable.(¢ì¿ÿ
+R
+java:S1854"<Remove this useless assignment to local variable "lastElem".(œíõí
+C
+java:S1481"-Remove this unused "lastElem" local variable.(œíõí
+S
+java:S1854"=Remove this useless assignment to local variable "firstElem".(¢ì¿ÿ
+D
+java:S1481".Remove this unused "firstElem" local variable.(¢ì¿ÿ
+R
+java:S1854$"<Remove this useless assignment to local variable "lastElem".(œíõí
+C
+java:S1481$"-Remove this unused "lastElem" local variable.(œíõí
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÑªñÿÿÿÿÿ

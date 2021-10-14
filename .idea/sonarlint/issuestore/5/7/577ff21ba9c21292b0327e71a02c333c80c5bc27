@@ -1,0 +1,8 @@
+
+?
+java:S1481!")Remove this unused "size" local variable.(„Í¶¬
+F
+java:S1481""+Remove this unused "cheese" local variable.(Êòˆöûÿÿÿÿ
+>
+java:S1481#"(Remove this unused "ham" local variable.(»èğû
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÂØö
